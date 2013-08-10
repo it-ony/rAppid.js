@@ -1,4 +1,4 @@
 rAppid.js
 =========
 
-he declarative Rich Internet Application Javascript MVC Framework - http://www.rappidjs.com
+We've moved to an org! Please visit us at https://github.com/rappid/rAppid.js
